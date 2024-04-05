@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mojidrakeval2000](https://medium.com/@mojidrakeval2000)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **Html** **Css** **Bootstrap** **Javascript** **react js**
 
 - 📫 How to reach me **mojidrakeval2000@gmail.com**
 
